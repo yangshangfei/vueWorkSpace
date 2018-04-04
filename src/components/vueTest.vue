@@ -6,10 +6,10 @@
 
 <script>
   export default {
-    name: "vueTest",
-    data() {
+    name: 'vueTest',
+    data () {
       return {
-        msg: "这是一个vueTest"
+        msg: '这是一个vueTest'
       }
     }
   }
